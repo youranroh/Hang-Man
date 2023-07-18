@@ -10,4 +10,7 @@ in your terminal (pip3 if your python version is python3.)
 The player gets 7 lives.
 Only 1 letter at a time is accepted. 
 
+The game is played via the terminal.
+Run the program in your terminal and start the game!
+
 Enjoy the game!!
