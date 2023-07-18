@@ -1,2 +1,13 @@
 # Hang-Man
-A simple Hangman game using a random word generator using python.
+A simple Hangman game using a random word generator using Python.
+
+The player must download the python package, random-word from the below site:
+https://pypi.org/project/Random-Word/
+or enter: 
+$ pip install random-word
+in your terminal (pip3 if your python version is python3.)
+
+The player gets 7 lives.
+Only 1 letter at a time is accepted. 
+
+Enjoy the game!!
