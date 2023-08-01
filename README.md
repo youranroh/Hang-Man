@@ -7,7 +7,7 @@ or enter:
 $ pip install random-word
 in your terminal (pip3 if your python version is python3.)
 
-The player gets 7 lives.
+The player gets 6 lives.
 Only 1 letter at a time is accepted. 
 
 The game is played via the terminal.
